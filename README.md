@@ -2,7 +2,7 @@
 
  # Handwritten Digit Recognition using CNN
 
-A deep learning project that uses a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras** to classify handwritten digits from the **MNIST dataset** with approximately **99% test accuracy**.
+A deep learning project that uses a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras** to classify handwritten digits from the **MNIST dataset** with approximately **94% test accuracy**.
 
 ## Features
 
@@ -63,8 +63,8 @@ python mnist_cnn.py
 ## Results
 
 ```text
-Test Accuracy : ~99%
-Test Loss     : ~0.03
+Test Accuracy : ~94%
+Test Loss     : ~0.20
 ```
 
 The model automatically generates:
